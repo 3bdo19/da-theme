@@ -1,5 +1,5 @@
 title: da-theme
-description: "welcome to da-theme, made with love by 3dbo"
+description: "welcome to da-theme, made with love by 3bdo"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
