@@ -2,3 +2,4 @@
 ---
 
 # da-theme
+layout: default
