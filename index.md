@@ -1,5 +1,6 @@
 ---
+title: home
 ---
 
 # da-theme
-layout: default
+*da-theme* is a space theme aimed generally for astronauts
